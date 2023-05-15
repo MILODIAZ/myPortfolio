@@ -1,13 +1,13 @@
 import skills_background from '../images/Skills_Section_Background.jpg';
 import SkillsContainer from './SkillsContainer';
 
-const imgClassNames='min-w-[60px] h-[60px] lg:w-[70px] lg:h-[70px]';
+const imgClassNames='w-[40px] h-[40px] sm:w-[60px] sm:h-[60px] lg:w-[70px] lg:h-[70px]';
 
 function SkillsSection () {
     return (
       <div className='bg-cover bg-center z-0 section-div skills-section-shadow' style={{ backgroundImage: `url(${skills_background})` }}>
         <section id='skills_section' className='container mx-auto px-12 2xl:px-24 lg:px-19 h-[937px]'>
-          <div className='flex flex-col lg:flex-row lg:justify-around pt-[150px] lg:pt-[250px]'>
+          <div className='flex flex-col lg:flex-row lg:justify-around pt-[160px] sm:pt-[150px] lg:pt-[250px]'>
             <SkillsContainer nombre='Frontend'>
                 <img alt='HTML' src={require('../images/html.png')} className={imgClassNames}/>
                 <img alt='CSS' src={require('../images/css-3.png')} className={imgClassNames}/>
