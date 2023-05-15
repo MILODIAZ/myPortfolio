@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.f861d04b.css",
+    "main.js": "/myPortfolio/static/js/main.b1f8af2e.js",
+    "static/media/Projects_Section_Background.gif": "/myPortfolio/static/media/Projects_Section_Background.147154e5cc92132dff23.gif",
+    "static/media/Contact_Section_Background.gif": "/myPortfolio/static/media/Contact_Section_Background.3e5029b7470d1f23dce8.gif",
+    "static/media/Education_Section_Background.jpg": "/myPortfolio/static/media/Education_Section_Background.7ab130fa969448134b60.jpg",
+    "static/media/Skills_Section_Background.jpg": "/myPortfolio/static/media/Skills_Section_Background.e3537fd01449729f4c4f.jpg",
+    "static/media/Background_Gradient.jpg": "/myPortfolio/static/media/Background_Gradient.07450ac8897f2021d03a.jpg",
+    "static/media/Welcome_Section_Background.jpg": "/myPortfolio/static/media/Welcome_Section_Background.32630e8982fd3c472659.jpg",
+    "static/media/bootstrap-icon.png": "/myPortfolio/static/media/bootstrap-icon.ca2bd3b63ce84d5327d4.png",
+    "static/media/Logo_Portfolio.png": "/myPortfolio/static/media/Logo_Portfolio.de2262e3cb341fae9b6a.png",
+    "static/media/react-icon.png": "/myPortfolio/static/media/react-icon.8a6fc0a24a800d1e0f4a.png",
+    "static/media/php.png": "/myPortfolio/static/media/php.aa680f57bf75b5d5acdc.png",
+    "static/media/vscode.png": "/myPortfolio/static/media/vscode.e66400756ccbdbfc0b31.png",
+    "static/media/tailwind-icon.png": "/myPortfolio/static/media/tailwind-icon.36b2728bf0d14b7b7576.png",
+    "static/media/python-icon.png": "/myPortfolio/static/media/python-icon.6a5cbc319ab3ddf8ef92.png",
+    "static/media/node-icon.png": "/myPortfolio/static/media/node-icon.e328955d6bbbf3ebc72b.png",
+    "static/media/postgresql.png": "/myPortfolio/static/media/postgresql.6c5d698f195dac2fe5af.png",
+    "static/media/css-3.png": "/myPortfolio/static/media/css-3.17ca133b9447e300cb1b.png",
+    "static/media/java-icon.png": "/myPortfolio/static/media/java-icon.f5dd86c3ef6ef3f85acf.png",
+    "static/media/jquery.png": "/myPortfolio/static/media/jquery.62ac4c6baa0b075ce153.png",
+    "static/media/html.png": "/myPortfolio/static/media/html.d73d6cf43e038efb2643.png",
+    "index.html": "/myPortfolio/index.html",
+    "main.f861d04b.css.map": "/myPortfolio/static/css/main.f861d04b.css.map",
+    "main.b1f8af2e.js.map": "/myPortfolio/static/js/main.b1f8af2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f861d04b.css",
+    "static/js/main.b1f8af2e.js"
+  ]
+}
